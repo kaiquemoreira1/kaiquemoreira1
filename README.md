@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://www.codewars.com/users/kaiquemoreira1/badges/large" alt="alt text" title="image Title" />
 <!--
 **kaiquemoreira1/kaiquemoreira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
